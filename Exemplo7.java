@@ -17,8 +17,9 @@ class Exemplo7 {
     int soma = 0;
     int quantidade = 0;
 
-    int maior = 0;
-    int menor = 100000000;
+    double menor = Double.POSITIVE_INFINITY;
+
+    double maior = Double.NEGATIVE_INFINITY;
 
     while (true) {
 
