@@ -4,7 +4,7 @@ Faça um programa que calcule a média de salários de uma empresa, pedindo ao u
 
 import java.util.Scanner;
 
-class Exemplo01 {
+class Exemplo1 {
 
   public static void main(String[] args) {
 
